@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions version="1.0">
+ <group name="Zaakpay">
+  <string name="merchantIdentifier"><![CDATA[Merchant Identifier]]></string>
+  <string name="secret_key"><![CDATA[Secret Key]]></string>
+  <string name="module_description"><![CDATA[&#8220;Simplifying payments in India&#8221;]]></string>
+  <string name="module_title"><![CDATA[zaakpay]]></string>
+  <string name="2checkout_settings"><![CDATA[Zaakpay Settings]]></string>
+ </group>
+</definitions>

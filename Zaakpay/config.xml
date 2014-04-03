@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<installer version="1.0">
+  <info>
+	<uid>gateway</uid>
+	<type>gateway</type>
+	<name><![CDATA[Zaakpay]]></name>
+	<description><![CDATA[Zaakpay Payment Gateway]]></description>
+	<version>0.0.1</version>
+	<minVersion>5.0.0a</minVersion>
+	<maxVersion>5.0.*</maxVersion>
+	<creator><![CDATA[Zaakpay]]></creator>
+	<homepage><![CDATA[https://www.zaakpay.com]]></homepage>
+	<block>false</block>
+  </info>
+</installer>
